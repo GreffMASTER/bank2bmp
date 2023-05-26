@@ -1,4 +1,4 @@
-![build](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![build](https://github.com/GreffMASTER/bank2bmp/actions/workflows/cmake.yml/badge.svg)
 # BANK2BMP
  A tool for extracting image data from Balite/Baltik 2.0/3.0 BANK files.  
   
